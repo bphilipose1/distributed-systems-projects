@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Output files
+output.txt
+*.log
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
